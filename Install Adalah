@@ -1,0 +1,29 @@
+#install linux arch (suka-suka gue)
+
+##1. Persiapan
+
+- siapkan flashdisk minimal 8GB
+- install arch linux di web resmi, terserah mau yang mana, sakarepmu lah. harus install dulu, karena lama bisa 1 jam, tergantung jaringan kau!
+- install rufus (yang standar x64)
+
+##2. Rufus
+
+- klik rufus, anukan, select dah tuh si arch linux lo
+- pilih GPT (sesuai laptop kau)
+- pilih BIOS or UEFI (sesuai laptop kau)
+- pilih FAT32
+- size pun default aja
+- start, tunggu agak lama emang
+- selesai
+
+##3. Go
+
+- masih colok aja flashdisknya
+- restart laptop
+- boot laptop (sesuai merk laptop masing-masing ada yang F2, F8, dll)
+- pilih yang UEFI, pokoknya ada EFI-EFI nya dah tuh
+- ntar masuk, enter, siap ngoding bro!
+
+##4. Koneksi Jaringan
+
+- 
